@@ -1,13 +1,11 @@
-📊 **CohortIQ – SaaS Retention & Revenue Analytics**
-
-(Paste your banner image here once ready)
-Example placeholder:
-
 <p align="center">
   <img src="CohortIQ_Banner.png" width="100%" />
 </p>
 
 <p align="center"> <img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PowerBI-Dashboards-F2C811?logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-Analytics-025E8C?logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/License-MIT-yellow.svg" /> </p>
+
+📊 **CohortIQ – SaaS Retention & Revenue Analytics**
+
 🚀 **Overview**
 
 **CohortIQ** is an end-to-end SaaS retention and revenue analytics project built to analyze:
